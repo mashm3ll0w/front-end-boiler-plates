@@ -26,4 +26,4 @@ $ atom .
 
 
 ## License
-This software is licensed under the [MIT](https://github.com/mashm3ll0w/PROJECT-NAME/blob/master/LICENSE) License ©
+This software is licensed under the [MIT](https://github.com/mashm3ll0w/front-end-boiler-plates/blob/master/LICENSE) License ©
