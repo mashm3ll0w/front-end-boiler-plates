@@ -1,37 +1,29 @@
-# **Project Title**
+# **Boiler-plate Startup Code**
 
-[![license](https://img.shields.io/github/license/mashm3ll0w/PROJECT-NAME.svg)](https://github.com/mashm3ll0w/PROJECT-NAME/blob/master/LICENSE)
+[![license](https://img.shields.io/github/license/mashm3ll0w/front-end-boiler-plates.svg)](tps://github.com/mashm3ll0w/front-end-boiler-plates/blob/master/LICENSE.md)
 
-One Paragraph of project description goes here
+Boiler plate code for the start of simple front end projects.
 
 
 ## How To Use
 
-To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+To use this code, you'll need [Git](https://git-scm.com) and [Atom](https://atom.io) or any preferred editor installed on your computer. From your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/mashm3ll0w/project-name
+$ git clone https://github.com/mashm3ll0w/front-end-boiler-plates
 
 # Go into the repository
-$ cd project-name
+$ cd front-end-boiler-plates
 
-# Install dependencies
-$ npm install
-
-# Run the app
-$ npm start
+# Load the project in Atom
+$ atom .
 ```
-
-## Live Preview
-
-You can view this project live on my [`GitHub Pages`](https://www.github.io/mashm3ll0w/PROJECTNAME)
 
 ## Authors
 
 **Charles Swaleh**
 
-See also the list of [contributors](https://github.com/mashm3ll0w/project-name/contributors) who participated in this project.
 
-## 📜 License
+## License
 This software is licensed under the [MIT](https://github.com/mashm3ll0w/PROJECT-NAME/blob/master/LICENSE) License ©
